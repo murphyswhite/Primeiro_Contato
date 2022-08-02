@@ -57,191 +57,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;button_enviar.Name" xml:space="preserve">
-    <value>button_enviar</value>
-  </data>
-  <data name="&gt;&gt;labelarquivo.Name" xml:space="preserve">
-    <value>labelarquivo</value>
-  </data>
-  <data name="&gt;&gt;labelnome.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;labelnumero.Parent" xml:space="preserve">
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
     <value>$this</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>82, 0</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
-    <value>richTextBox1</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="cont.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="&gt;&gt;button_enviar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="cont.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="labelnumero.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;button_enviar.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;Ajuda.Type" xml:space="preserve">
-    <value>System.Windows.Forms.HelpProvider, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;atualizar.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="labelnumero.Location" type="System.Drawing.Point, System.Drawing">
-    <value>176, 58</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 15</value>
-  </data>
-  <data name="&gt;&gt;labelarquivo.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="labelarquivo.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;label3.Name" xml:space="preserve">
-    <value>label3</value>
-  </data>
-  <data name="&gt;&gt;digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="labelimagem.Location" type="System.Drawing.Point, System.Drawing">
-    <value>343, 58</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
-    <value>15</value>
-  </data>
-  <data name="labelarquivo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>132, 426</value>
-  </data>
-  <data name="&gt;&gt;casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="labelarquivo.Text" xml:space="preserve">
-    <value>Nenhum aquivo escolhido</value>
-  </data>
-  <data name="labelarquivo.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;label6.Name" xml:space="preserve">
-    <value>label6</value>
-  </data>
-  <data name="vScrollBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>771, 87</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="labelarquivo.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;button_enviar.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="$this.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;labelnumero.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button_enviar.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 20</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="open_file.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label_escoha.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="labelnumero.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;open_file.ZOrder" xml:space="preserve">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;labelnome.Name" xml:space="preserve">
-    <value>labelnome</value>
-  </data>
-  <data name="open_file.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
-  </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button_enviar.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="labelnome.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="label_escoha.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="label6.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="button_enviar.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="labelnome.Location" type="System.Drawing.Point, System.Drawing">
-    <value>65, 58</value>
-  </data>
-  <data name="&gt;&gt;label_escoha.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label5.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 10pt</value>
-  </data>
-  <data name="&gt;&gt;vScrollBar1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="label2.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
   </data>
   <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
     <value>menuStrip1</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>107, 27</value>
+  </data>
+  <data name="&gt;&gt;Ajuda.Name" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="cont.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Carregue um arquivo Xlsx(Arquivo de planilha)
@@ -253,182 +87,462 @@ A segunda coluna deve conter o numero de seu cliente.
 
 </value>
   </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value />
-  </data>
-  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="label3.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="&gt;&gt;open_file.Name" xml:space="preserve">
-    <value>open_file</value>
-  </data>
-  <data name="label4.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="&gt;&gt;labelarquivo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;vScrollBar1.Name" xml:space="preserve">
-    <value>vScrollBar1</value>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Como usar</value>
   </data>
   <data name="open_file.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+  <data name="label2.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label_escoha.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label_escoha.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="richTextBox1.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;label_escoha.ZOrder" xml:space="preserve">
-    <value>13</value>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
   </data>
-  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>6</value>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>7</value>
   </data>
-  <data name="label5.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;open_file.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;labelarquivo.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
-  <data name="button_enviar.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="richTextBox1.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="open_file.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="cont.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="button_enviar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>575, 366</value>
-  </data>
-  <data name="label4.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="cont.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="label_escoha.Text" xml:space="preserve">
-    <value>Escolha a planilha para leitura</value>
-  </data>
-  <data name="tabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
-  </data>
-  <data name="&gt;&gt;cont.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="escolhaATabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>364, 22</value>
-  </data>
-  <data name="&gt;&gt;vScrollBar1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label1.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="&gt;&gt;atualizar.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Name" xml:space="preserve">
-    <value>digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;tabelaToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label3.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;label_escoha.Name" xml:space="preserve">
-    <value>label_escoha</value>
-  </data>
-  <data name="vScrollBar1.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="label_escoha.AutoSize" type="System.Boolean, mscorlib">
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
-  </data>
-  <data name="label6.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label3.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;labelimagem.Parent" xml:space="preserve">
-    <value>$this</value>
   </data>
   <data name="&gt;&gt;labelimagem.Name" xml:space="preserve">
     <value>labelimagem</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Primeiro Contato Whatsapp</value>
+  <data name="labelnumero.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="open_file.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;tabelaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="richTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="button_enviar.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelnome.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 20</value>
+  </data>
+  <data name="labelarquivo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>132, 426</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;atualizar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label_escoha.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="$this.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;labelarquivo.Name" xml:space="preserve">
+    <value>labelarquivo</value>
+  </data>
+  <data name="label_escoha.Text" xml:space="preserve">
+    <value>Escolha a planilha para leitura</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="open_file.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="labelnome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>65, 58</value>
+  </data>
+  <data name="labelnome.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="label6.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="cont.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;labelimagem.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="richTextBox1.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;vScrollBar1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cont.Location" type="System.Drawing.Point, System.Drawing">
+    <value>513, 384</value>
+  </data>
+  <data name="label2.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;labelnumero.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button_enviar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="atualizar.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;labelarquivo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label6.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>443, 12</value>
+  </data>
+  <data name="label3.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Ajuda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.HelpProvider, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_escoha.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="labelarquivo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;button_enviar.Name" xml:space="preserve">
+    <value>button_enviar</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;button_enviar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;escolhaATabelaToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="open_file.Location" type="System.Drawing.Point, System.Drawing">
-    <value>204, 380</value>
+  <data name="&gt;&gt;richTextBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RichTextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labeldeteste.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labeldeteste.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label_escoha.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="vScrollBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>771, 87</value>
+  </data>
+  <data name="tabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
+  </data>
+  <data name="labelarquivo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 15</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Name" xml:space="preserve">
+    <value>digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14pt</value>
+  </data>
+  <data name="&gt;&gt;label_escoha.Name" xml:space="preserve">
+    <value>label_escoha</value>
+  </data>
+  <data name="&gt;&gt;labelnome.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="labelarquivo.Text" xml:space="preserve">
+    <value>Nenhum aquivo escolhido</value>
+  </data>
+  <data name="&gt;&gt;labeldeteste.Name" xml:space="preserve">
+    <value>labeldeteste</value>
+  </data>
+  <data name="atualizar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>322, 377</value>
+  </data>
+  <data name="label4.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;open_file.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>816, 418</value>
+  </data>
+  <data name="&gt;&gt;open_file.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;open_file.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.VScrollBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="richTextBox1.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="label3.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="open_file.Text" xml:space="preserve">
+    <value>Open File</value>
+  </data>
+  <data name="labelarquivo.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="labelimagem.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 22</value>
+  </data>
+  <data name="labelnome.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="label_escoha.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.Name" xml:space="preserve">
+    <value>richTextBox1</value>
+  </data>
+  <data name="labeldeteste.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="label_escoha.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelimagem.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Name" xml:space="preserve">
+    <value>vScrollBar1</value>
+  </data>
+  <data name="&gt;&gt;labelnumero.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;open_file.Name" xml:space="preserve">
+    <value>open_file</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="vScrollBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;cont.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="button_enviar.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
   </data>
   <data name="&gt;&gt;cont.Name" xml:space="preserve">
     <value>cont</value>
   </data>
-  <data name="label2.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="label_escoha.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 384</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 450</value>
+  <data name="richTextBox1.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
   </data>
-  <data name="labelnumero.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
+  <data name="label_escoha.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 15</value>
+  </data>
+  <data name="labelnumero.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>453, 9</value>
   </data>
   <data name="&gt;&gt;cont.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 25</value>
+  <data name="button_enviar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>575, 366</value>
   </data>
-  <data name="label1.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="&gt;&gt;atualizar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelarquivo.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelnumero.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="button_enviar.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
+    <value>toolStripMenuItem1</value>
+  </data>
+  <data name="labelnumero.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="labeldeteste.Location" type="System.Drawing.Point, System.Drawing">
+    <value>464, 66</value>
+  </data>
+  <data name="open_file.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 380</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;labelnome.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="labelimagem.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="labelimagem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>343, 58</value>
+  </data>
+  <data name="label1.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>421, 133</value>
+  </data>
+  <data name="&gt;&gt;labelarquivo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="labelarquivo.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;labelimagem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 0</value>
+  </data>
+  <data name="label1.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 22</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label5.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="escolhaATabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>364, 22</value>
+  </data>
+  <data name="label1.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="button_enviar.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;cont.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelnome.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -7639,41 +7753,26 @@ A segunda coluna deve conter o numero de seu cliente.
         AADwDwAA+B8AAP//AAA=
 </value>
   </data>
-  <data name="atualizar.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
   </data>
-  <data name="labelarquivo.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Primeiro Contato Whatsapp</value>
   </data>
-  <data name="cont.Location" type="System.Drawing.Point, System.Drawing">
-    <value>513, 384</value>
+  <data name="&gt;&gt;tabelaToolStripMenuItem.Name" xml:space="preserve">
+    <value>tabelaToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="labelarquivo.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;label_escoha.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>364, 22</value>
-  </data>
-  <data name="open_file.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="&gt;&gt;labelnumero.Name" xml:space="preserve">
-    <value>labelnumero</value>
-  </data>
-  <data name="&gt;&gt;labelnome.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;cont.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="label4.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="label_escoha.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="open_file.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;labelnome.Name" xml:space="preserve">
+    <value>labelnome</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 227</value>
@@ -7681,202 +7780,121 @@ A segunda coluna deve conter o numero de seu cliente.
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
     <value>158, 202</value>
   </data>
-  <data name="labelnome.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="richTextBox1.Text" xml:space="preserve">
     <value />
-  </data>
-  <data name="label4.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;vScrollBar1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.VScrollBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;escolhaATabelaToolStripMenuItem.Name" xml:space="preserve">
-    <value>escolhaATabelaToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;open_file.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>816, 418</value>
-  </data>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="labelimagem.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="$this.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;labelimagem.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="label1.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>421, 133</value>
-  </data>
-  <data name="&gt;&gt;atualizar.Name" xml:space="preserve">
-    <value>atualizar</value>
-  </data>
-  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>453, 9</value>
-  </data>
-  <data name="richTextBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>443, 12</value>
-  </data>
-  <data name="&gt;&gt;label2.Name" xml:space="preserve">
-    <value>label2</value>
-  </data>
-  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;labelimagem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label2.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="&gt;&gt;label5.Name" xml:space="preserve">
-    <value>label5</value>
-  </data>
-  <data name="digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>364, 22</value>
-  </data>
-  <data name="&gt;&gt;label5.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabelaToolStripMenuItem.Name" xml:space="preserve">
-    <value>tabelaToolStripMenuItem</value>
-  </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>107, 27</value>
-  </data>
-  <data name="&gt;&gt;labelnumero.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="labelarquivo.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="labelimagem.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="label_escoha.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
   </data>
   <data name="label6.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
     <value>AssociateIndex</value>
   </data>
-  <data name="&gt;&gt;atualizar.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="label5.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
   </data>
-  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 14pt</value>
+  <data name="labelimagem.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
   </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>Como usar</value>
+  <data name="&gt;&gt;labelnumero.Name" xml:space="preserve">
+    <value>labelnumero</value>
   </data>
-  <data name="labelnome.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+  <data name="label3.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
   </data>
   <data name="labelnome.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
     <value>AssociateIndex</value>
   </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label4.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
   </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 25</value>
+  </data>
+  <data name="cont.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
+    <value>AssociateIndex</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;labelarquivo.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="cont.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;labelimagem.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label3.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;labelnumero.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label_escoha.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="label5.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="richTextBox1.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="label4.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="labelimagem.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;atualizar.Name" xml:space="preserve">
+    <value>atualizar</value>
+  </data>
+  <data name="&gt;&gt;digiteAPaginaQueQuerBuscarOsContatosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;richTextBox1.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="open_file.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;labeldeteste.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="labelnumero.Location" type="System.Drawing.Point, System.Drawing">
+    <value>176, 58</value>
+  </data>
+  <data name="&gt;&gt;escolhaATabelaToolStripMenuItem.Name" xml:space="preserve">
+    <value>escolhaATabelaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;button_enviar.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
     <value>464, 387</value>
   </data>
-  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;toolStripMenuItem1.Name" xml:space="preserve">
-    <value>toolStripMenuItem1</value>
-  </data>
-  <data name="labelarquivo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>147, 15</value>
+  <data name="&gt;&gt;atualizar.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem.Name" xml:space="preserve">
     <value>casoQueiraMudarDePaginaSubaNovamenteATabelaToolStripMenuItem</value>
   </data>
-  <data name="label5.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="label_escoha.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 384</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="&gt;&gt;Ajuda.Name" xml:space="preserve">
-    <value>Ajuda</value>
-  </data>
-  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
-    <value>No</value>
-  </data>
-  <data name="open_file.Text" xml:space="preserve">
-    <value>Open File</value>
-  </data>
-  <data name="label6.HelpKeyword" type="System.Resources.ResXNullRef, System.Windows.Forms">
+  <data name="label2.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
-  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="labelimagem.HelpString" type="System.Resources.ResXNullRef, System.Windows.Forms">
-    <value />
-  </data>
-  <data name="$this.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <data name="atualizar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>322, 377</value>
-  </data>
-  <data name="label_escoha.Size" type="System.Drawing.Size, System.Drawing">
-    <value>163, 15</value>
-  </data>
-  <data name="labelnumero.HelpNavigator" type="System.Windows.Forms.HelpNavigator, System.Windows.Forms">
-    <value>AssociateIndex</value>
-  </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <metadata name="Ajuda.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>181, 17</value>
   </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>pt-BR</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
   </metadata>
 </root>
